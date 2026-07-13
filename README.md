@@ -15,6 +15,10 @@ I'm passionate about learning programming, building projects, and understanding 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## Tools And Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atul247ui&show_icons=true&theme=github_dark)
 
@@ -24,9 +28,9 @@ I'm passionate about learning programming, building projects, and understanding 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atul247ui&theme=github-dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=atul247ui&theme=tokyonight)]
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Atul+Singh;Aspiring+Software+Developer;Learning+JavaScript;Building+Awesome+Projects)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Atul+Singh;Aspiring+Software+Developer;Learning+JavaScript;Building+Awesome+Projects;Learning+Python)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=atul247ui&style=for-the-badge&color=blue)
 
