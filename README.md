@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello and Welcome, I'm Atul Singh
 
-<!--
-**atul247ui/atul247ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm passionate about learning programming, building projects, and understanding how software works from the ground up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning:** JavaScript
+
+🎯 **Goal:** Become a Full-Stack Developer and build impactful software.
+
+🚀 **Current Focus:** Building projects, improving problem-solving skills, and expanding my knowledge of web development.
+
+## Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atul247ui&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atul247ui&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=atul247ui&theme=github-dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atul247ui&theme=github-dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=atul247ui&theme=onedark)]
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Atul;JavaScript+Developer;Always+Learning)]
+
+![](https://komarev.com/ghpvc/?username=atul247ui)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
