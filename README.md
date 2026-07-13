@@ -24,10 +24,10 @@ I'm passionate about learning programming, building projects, and understanding 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atul247ui&theme=github-dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=atul247ui&theme=onedark)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=atul247ui&theme=tokyonight)]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Atul;JavaScript+Developer;Always+Learning)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Atul+Singh;Aspiring+Software+Developer;Learning+JavaScript;Building+Awesome+Projects)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=atul247ui)
+![](https://komarev.com/ghpvc/?username=atul247ui&style=for-the-badge&color=blue)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/atulsingh247)
