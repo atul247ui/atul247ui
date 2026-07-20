@@ -1,12 +1,14 @@
 # 👋 Hey there, I'm Atul Singh
 
-**Aspiring Full-Stack Developer** | Passionate about building web applications | Based in 🌍
+**Aspiring Full-Stack Developer** | Passionate about building web applications | Based on 🌍
 
 ---
 
 ## 🎯 About Me
 
 I'm an aspiring software developer with a passion for learning, problem-solving, and building projects that make an impact. I'm currently focused on mastering **JavaScript** and the **Full-Stack Development** ecosystem.
+
+Also going through the basics of AI & ML.
 
 - 🌱 **Currently Learning:** JavaScript & Web Development
 - 🚀 **Goal:** Build scalable, user-friendly web applications
