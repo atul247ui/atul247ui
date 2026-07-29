@@ -41,7 +41,7 @@ Also going through the basics of AI & ML.
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=atul247ui" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=atul247ui&layout=compact&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
