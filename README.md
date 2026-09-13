@@ -33,20 +33,20 @@ Also going through the basics of AI & ML.
 
 ## 📊 GitHub Statistics
 
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atul247ui&layout=compact&theme=tokyonight" /></td>
    
   </tr>
-</table>
+</table> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=atul247ui&layout=compact&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul247ui&theme=github-dark" alt="Activity Graph" />
-</div>
+</div> -->
 
 ---
 
