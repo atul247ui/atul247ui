@@ -12,7 +12,7 @@ Also going through the basics of AI & ML.
 
 - 🌱 **Currently Learning:** JavaScript & Web Development
 - 🚀 **Goal:** Build scalable, user-friendly web applications
-- 💡 **Interests:** Web Development, Problem-Solving, Open Source
+- 💡 **Interests:** Web Development, Problem-Solving, Open Source, Artificial Intelligence & Machine Learning
 
 ---
 
